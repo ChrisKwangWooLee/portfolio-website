@@ -39,6 +39,14 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 ## MVP Requirements
 
 - [v] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
+
+Breakpoints that the writer of this webpage used:
+	1280px, 980px, 736px, 480px, 360px
+	Large screen, normal screen, tablet, large phone, small phone
+
+Syntax: media quarry added at the end of each section, rather than putting everything under each pixel. 
+    - More code but better readability?
+
 - [v] Customize the template to you 
 	- [v] Update the title tag match your name
 	- [v] Update the place holder content throughout the template to your information
@@ -50,5 +58,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 ## Stretch
 
-- [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
-- [ ] Download another template and see if you can get the CSS preprocessor working on the project
+- [v] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
+	In main.js line 27, if you change the number 100 to a greater number, banner's loading time will be dealyed. Interesting! 
+- [v] Download another template and see if you can get the CSS preprocessor working on the project
+	Downloaded yarn, lass and sass. Not sure what is meant by get the css preprocessor working.
